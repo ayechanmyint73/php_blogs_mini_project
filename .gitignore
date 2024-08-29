@@ -1,0 +1,4 @@
+# Ignore image files
+image/*.jpg
+image/*.png
+image/*.webp
