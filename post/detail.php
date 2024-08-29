@@ -11,7 +11,7 @@
     <!-- font awesome link -->
     <script src="https://kit.fontawesome.com/83dfd2d6e1.js" crossorigin="anonymous"></script>
 </head>
-<body>
+<body style="margin: 30px 80px; background-color: #adcdc6;>
 
     <?php
         require_once("../db/db_connection.php");
